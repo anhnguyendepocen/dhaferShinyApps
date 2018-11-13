@@ -15,7 +15,7 @@ require(shiny)
 
 ```{r}
 require(shiny)
-shiny::runGitHub(repo = 'dhaferShinyApps',username =  'malouche', subdir='PCAapp_v3')
+shiny::runGitHub(repo = 'dhaferShinyApps',username =  'malouche', subdir='PCA_app_v3')
 ```
 
 
