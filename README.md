@@ -18,4 +18,5 @@ require(shiny)
 shiny::runGitHub(repo = 'dhaferShinyApps',username =  'malouche', subdir='PCA_app_v3')
 ```
 
+Here's a tutorial video on how you can use this app: https://www.youtube.com/watch?v=Z_0pXXPOKV0
 
