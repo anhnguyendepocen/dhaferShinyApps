@@ -1,0 +1,13 @@
+name: TableAnova
+title: TableAnova
+username:
+account: dhafer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 190034
+bundleId: 1442522
+url: https://dhafer.shinyapps.io/TableAnova/
+when: 1529646399.78774
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|anova_functions.R|data_OO.csv_ANOVA1.csv|decathlon.csv|example_anova.R|excute_anova.R|TableAnova.R

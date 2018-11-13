@@ -1,0 +1,13 @@
+name: CorrMatrixViz
+title: CorrMatrixViz
+username:
+account: dhafer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 193504
+bundleId: 1130860
+url: https://dhafer.shinyapps.io/CorrMatrixViz/
+when: 1513110285.92629
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
